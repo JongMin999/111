@@ -1,0 +1,10 @@
+.abc {
+  overflow: auto; /* Clear the float */
+}
+
+.abc p {
+  float: center;
+  width: 48%; /* Adjust the width as needed */
+  margin-right: 2%; /* Adjust the margin as needed */
+  margin-bottom: 80px; 
+}

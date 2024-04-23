@@ -1,0 +1,30 @@
+{
+  "kind": [
+    {
+      "id": 1,
+      "name": "내용",
+      "provider": "a",
+      "image": "/images/DOG.jpg"
+      
+    },
+    {
+      "id": 2,
+      "name": "내용",
+      "provider": "b",
+      "image": "/images/cat.jpg"
+    },
+    {
+      "id": 3,
+      "name": "내용",
+      "provider": "c",
+      "image": "/images/lizard.jpg"
+    },
+    {
+      "id": 4,
+      "name": "내용",
+      "provider": "d",
+      "image": "/images/turtle.jpg"
+    }
+    
+  ]
+}
